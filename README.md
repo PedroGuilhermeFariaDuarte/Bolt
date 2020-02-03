@@ -2,7 +2,11 @@
 Neste repositório você vai encontrar a implementação de uma interface do case Bolt E-commerce.
 
 ## Getting Started
-Para começar a utiliza a interface, vamos ao pré-requisitos e a sua instalação.
+Para começar a utiliza a interface, vamos ao pré-requisitos e a sua instalação. 
+
+Para mais informações do case, segue o link para efetuar o download gratuito: https://www.uistore.design/items/bolt-e-commerce-app-ui-kit/ 
+
+é necessário ter o Adobe XD instalado na sua maquina para visualizar o case.
 
 ### Pre-requisites
 
